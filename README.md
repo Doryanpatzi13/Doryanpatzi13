@@ -1,4 +1,6 @@
-## Hi there 👋
+## Doryan Rafael Patzi Diaz
+## Ingenieria de Sistemas
+## "Si puedes soñarlo, puedes lograrlo. Si puedes creerlo, puedes alcanzarlo."
 
 <!--
 **Doryanpatzi13/Doryanpatzi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
