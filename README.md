@@ -1,6 +1,6 @@
 ## Doryan Rafael Patzi Diaz
 ## Ingenieria de Sistemas
-## "Si puedes soñarlo, puedes lograrlo. Si puedes creerlo, puedes alcanzarlo."
+## "No importa lo que la vida haya hecho contigo, sino lo que tú haces con lo que la vida ha hecho de ti."
 
 <!--
 **Doryanpatzi13/Doryanpatzi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
